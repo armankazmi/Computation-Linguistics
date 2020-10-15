@@ -1,2 +1,2 @@
-# Computation-Linguistics
-Projects related to Computation Linguistics
+# Computational-Linguistics
+Projects related to Computational Linguistics
